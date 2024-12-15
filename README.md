@@ -1,7 +1,7 @@
 <h1 align="center">Hi GitHub👋, I'm Marco Flores</h1>
 <h3 align="center">A passionate software engineer student</h3>
 
-- 💻 I’m currently learning **Assembly, Project Management, Digital Systems and System on Chips**
+- 💻 I’m currently studying **the sixth semester of my career at my university about to start the seventh semester**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
